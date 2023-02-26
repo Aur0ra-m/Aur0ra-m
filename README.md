@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=834CF7&lines=Hello%2C+I'm+Aur0ra)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=834CF7&lines=Hello%2C+I'm+Aur0ra)](https://aur0ra.cn)
 
 
 
